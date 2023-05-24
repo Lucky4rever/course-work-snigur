@@ -1,0 +1,42 @@
+{
+
+    "SiteTitle": "КП «ІС-12»",
+    "Pages": {
+        "Home": "Головна",
+        "Lists": "Списки",
+        "Requests": "Запити",
+        "Table": "Таблиця"
+    },
+    "Emploees": {
+        "title": "Працівники",
+        "description": "Список усіх працівників"
+    },
+    "Cashiers": {
+        "title": "Касири",
+        "description": "Список усіх касирів"
+    },
+    "ChiefCashiers": {
+        "title": "Головні касири",
+        "description": "Список усіх головних касирів"
+    },
+    "Conductors": {
+        "title": "Кондуктори",
+        "description": "Список усіх кондукторів"
+    },
+    "Routes": {
+        "title": "Маршрути",
+        "description": "Список усіх маршрутів"
+    },
+    "Checklists": {
+        "title": "Контрольні листи",
+        "description": "Список усіх контрольних листів"
+    },
+    "InternalDisbursementCashOrderTable": {
+        "title": "Видаткові касові ордери",
+        "description": "Список усіх видаткових касових ордерів, що надсилаються від касира до головного касира"
+    },
+    "ExternalDisbursementCashOrderTable": {
+        "title": "Видаткові касові ордери",
+        "description": "Список усіх видаткових касових ордерів, що надсилаються від головного касира до інкасаторів"
+    }
+}

@@ -1,0 +1,1 @@
+export { default as ua } from "./ua.json";
